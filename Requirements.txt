@@ -1,5 +1,6 @@
-Numpy
-Pandas
-Matplotlib
-Scikit-learn
-streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
